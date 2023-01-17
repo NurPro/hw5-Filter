@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/nur11s7/hw5-Filter.git/static/css/main.2e482057.css",
+    "main.js": "/nur11s7/hw5-Filter.git/static/js/main.d2b752d7.js",
+    "index.html": "/nur11s7/hw5-Filter.git/index.html",
+    "main.2e482057.css.map": "/nur11s7/hw5-Filter.git/static/css/main.2e482057.css.map",
+    "main.d2b752d7.js.map": "/nur11s7/hw5-Filter.git/static/js/main.d2b752d7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e482057.css",
+    "static/js/main.d2b752d7.js"
+  ]
+}
